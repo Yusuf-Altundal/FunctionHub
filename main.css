@@ -1,3 +1,5 @@
 ::selection{
-      background:none;
-}
+            background:none;
+            border-radius:0px 0px 0px 0px;
+            outline:none;
+           }
