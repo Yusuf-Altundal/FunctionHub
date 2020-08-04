@@ -1,0 +1,29 @@
+body{
+    background: #f3f3f3;
+    background-color: #f3f3f3;
+    backdrop-filter: none;
+    color: #5e5e5e;
+    font-size: 18px;
+    font-family:PT Sans;
+    font-style: normal;
+    font-variant: normal;
+    text-align: left;
+    -webkit-text-size-adjust: auto;
+}
+::selection{
+    background:hsl(200deg 18% 46%);
+    background-color: rgb(96 124 138);
+    color:hsl(200deg 100% 100%);
+}
+div{
+    width: 700px;
+    background: #ffffff;
+    height: 700px;
+    margin: auto;
+    margin-top:30px;
+    padding: 10px;
+    color: #5e5e5e;
+    position: relative;
+    border-radius: 3px;
+    box-shadow: 0 3px 5px 0 rgba(0,1,1,.1);
+}
